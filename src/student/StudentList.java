@@ -15,7 +15,7 @@ public class StudentList {
         Student [] studentList =new Student[3];
         
         Student s1 = new Student();
-        s1.setName("Arrththi");
+        s1.setName("rrththi");
         
         Student s2 = new Student();
         s2.setName("Thavabalanathan");
